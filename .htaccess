@@ -1,0 +1,8 @@
+# Enable simple friendly URLs for a few pages
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /bus-main/
+
+    # Friendly route: /bus-main/drivers -> /bus-main/pages/drivers.php
+    RewriteRule ^drivers/?$ pages/drivers.php [L,QSA]
+</IfModule>
