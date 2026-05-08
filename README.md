@@ -137,7 +137,7 @@ The site now uses a shared CSS variable palette so the entire UI can be restyled
 
 ### User Login
 
-- Username: `zannatun.nayem@g.bracu.ac.bd`
+- Username: `pranto`
 - Password: use the seeded user password from `local_bus_monitoring.sql`
 
 ### Driver Login
@@ -345,7 +345,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 User Login
 
-- Username: `zannatun.nayem@g.bracu.ac.bd`
+- Username: `pranto`
 - Password: use the seeded user password from `local_bus_monitoring.sql`
 
 user mail: sanzit@gmail.com
